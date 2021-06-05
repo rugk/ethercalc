@@ -10,7 +10,7 @@
   "dependencies": {
     "cors": "*",
     "csv-parse": "^0.0.6",
-    "iconv-lite": "^0.4.13",
+    "iconv-lite": "^0.6.2",
     "j": "0.4.x",
     "livescript": "1.4.x",
     "minimatch": "*",
